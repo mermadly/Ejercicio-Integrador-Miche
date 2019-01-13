@@ -99,14 +99,14 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    font-size: 0.90em;
-    width: 100vw;
+    font-size: 0.80em;
+    width: 95vw;
+    margin: 15px;
   }
-  /* line 86, ../sass/style.scss */
+  /* line 87, ../sass/style.scss */
   .container .article .text div {
     width: 45vw;
-    margin-top: 5vw;
-    margin-bottom: 5vw;
+    margin: 5vw 15px 5vw 15px;
   }
 
   /* line 97, ../sass/style.scss */
